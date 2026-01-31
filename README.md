@@ -65,55 +65,73 @@ df_India = df[df['job_country'] == 'India']
 The Analysis
 Each Jupyter notebook for this project aimed at investigating specific aspects of the data job market. Here’s how I approached each question:
 
-# 📈 Key Insights from Data Analysis
 
-# 1️⃣ Job Trends Over the Years (2019–2023)
+# 📈 Analysis & Insights
 
-Job postings declined during 2020, indicating the impact of COVID-19.
-A strong recovery is observed from 2021 onwards.
-2022–2023 show the highest demand, reflecting rapid digital transformation and data adoption.
-📌 Insight: The data domain has become recession-resilient in recent years.
+# 1️⃣ Most In-Demand Skills for Top Data Roles in India
 
-# 2️⃣ Top Hiring Locations in India
+This analysis identifies the top skills required for the most popular data roles such as:
+Data Analyst
+Data Scientist
+Data Engineer
+Key Insights:
 
-Bangalore leads as the largest hub for data jobs.
-Hyderabad, Pune, Mumbai, and Delhi NCR follow closely.
-Tier-2 cities are gradually emerging but still contribute a smaller share.
-📌 Insight: Metro cities dominate due to strong IT ecosystems and startup presence.
+SQL is the most frequently requested skill across all data roles.
+Python shows strong demand, especially for Data Scientist and Data Engineer roles.
+Excel remains highly relevant in Data Analyst positions.
+Data Engineer roles demand more specialized tools such as cloud platforms and big data technologies.
 
-# 3️⃣ Most In-Demand Data Skills
+📌 Insight:
+Core skills like SQL and Python form the foundation of most data roles in India, while advanced tools differentiate senior positions.
 
-SQL and Python appear in the majority of job postings.
-Excel remains essential despite advanced tools.
-Machine Learning, Power BI, Tableau, and Statistics are highly valued.
-Cloud and big-data skills show increasing demand.
-📌 Insight: Strong fundamentals + visualization tools = maximum employability.
+# 2️⃣ Skill Demand Trends for Data Analysts in India
 
-# 4️⃣ Role Distribution in the Data Domain
-Data Analyst roles form the largest share.
-Data Scientist and Business Analyst roles follow.
-Specialized roles like ML Engineer have fewer openings but higher skill requirements.
-📌 Insight: Entry-level opportunities are highest in Data Analyst roles.
+Skill trends were analyzed over time to understand how requirements evolve.
+Key Insights:
+SQL remains consistently in demand across years.
+Excel shows renewed importance, particularly in business-focused roles.
+Python and visualization tools (Power BI / Tableau) maintain steady demand.
+Visualization tools show gradual growth, reflecting the rise of data-driven decision-making.
 
-# 5️⃣ Top Hiring Companies
-IT giants and MNCs dominate hiring.
-Product-based companies and startups are increasingly hiring data professionals.
-Consulting and analytics firms show consistent demand.
-📌 Insight: Data roles are no longer limited to tech companies—every industry needs data.
+📌 Insight:
+The Indian market values both technical analysis and business reporting skills.
 
-# 6️⃣ Experience vs Job Demand
+# 3️⃣ Salary Analysis of Data Roles in India
 
-Majority of jobs require 0–3 years of experience.
-Mid-level roles (3–5 years) are the second largest segment.
-Senior roles have fewer but more specialized openings.
-📌 Insight: The market is highly favorable for freshers and early-career professionals.
+Salary distributions were analyzed across common data job titles.
+Key Insights:
+Senior roles command significantly higher salaries.
+Data Analyst roles show more consistent salary ranges compared to specialized roles.
+Higher salaries are closely linked to experience + advanced skill sets.
 
-# 7️⃣ Salary Insights (If Analyzed)
+📌 Insight:
+Specialization and seniority play a major role in salary growth in India.
 
-Entry-level salaries show steady growth over the years.
-Higher salaries are strongly linked to advanced skills and experience.
-Metro cities offer better compensation on average.
-📌 Insight: Upskilling directly impacts earning potential.
+# 4️⃣ Highest-Paid vs Most In-Demand Skills (India)
+
+This section compares:
+Most demanded skills
+Highest paying skills
+Key Insights:
+Foundational skills (SQL, Excel) are highly demanded but offer moderate salaries.
+Specialized tools and technologies offer higher pay but appear in fewer postings.
+There is a clear gap between employability skills and premium skills.
+
+📌 Insight:
+Career growth requires a balance between demand-driven and salary-driven skills.
+
+# 5️⃣ Optimal Skills to Learn for Data Analysts in India
+
+Optimal skills were identified based on:
+Skill demand percentage
+Median salary
+Key Insights:
+Skills like Python, SQL, Tableau, and Power BI offer strong demand and competitive pay.
+Specialized database and programming skills show high salary potential.
+Visualization and programming skills together create strong career leverage.
+
+📌 Insight:
+Candidates who combine core analytics skills with advanced tools maximize job opportunities.
 
 
 # What I Learned
@@ -152,4 +170,4 @@ This exploration into the data analyst job market has been incredibly informativ
 
 Sonal Shruti
 B.Tech | Data Analytics Enthusiast
-📍 Noida , India
+📍 India IN
